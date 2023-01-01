@@ -8,7 +8,7 @@ pkg install pv -y; pkg install figlet -y;
 clear;
 
 figlet -w 135 -c -f "bigmono9" "Termux Package List"
-figlet -w 135 -c -f "mono12" "ctrl c to stop"
+figlet -w 135 -c -f "mono9" "ctrl c to stop"
 figlet -w 135 -c -f "script" "by chameleonhash"
 figlet -w 135 -c -f "bigmono9" "================"
 for pkg in $(apt-cache pkgnames | sort);
