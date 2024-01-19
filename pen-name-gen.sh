@@ -4,7 +4,7 @@ echo "Welcome to the Pen Name Generator!"
 
 # URLs to external files containing male and female first names, and last names
 maleFirstNamesURL="https://example.com/male_first_names.txt"
-femaleFirstNamesURL="https://example.com/female_first_names.txt"
+femaleFirstNamesURL="https://raw.githubusercontent.com/chameleonhash/bash-scripts/main/female.txt"
 lastNamesURL="https://example.com/last_names.txt"
 
 # Function to download names from a URL into an array
