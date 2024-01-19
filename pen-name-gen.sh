@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 echo "Welcome to the Pen Name Generator!"
 
 # URLs to external files containing male and female first names, and last names
